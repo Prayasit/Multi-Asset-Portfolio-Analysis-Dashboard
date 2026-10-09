@@ -1,0 +1,23 @@
+# Windows and operating system files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.log
+
+# Editor and IDE files
+.vscode/
+.idea/
+
+# Temporary Power BI files
+~$*.pbix
+*.pbit~
+
+# Temporary data files
+~$*.xlsx
+~$*.xls
+~$*.csv
