@@ -200,14 +200,14 @@ Multi-Asset-Portfolio-Analysis-Dashboard/
 
 ---
 
-## 👤 Author
+## Author
 
 **Prayas Gotefode**
 
 MCA Student | Aspiring Data Analyst
 
-🔗 GitHub: [@Prayasit](https://github.com/Prayasit)
-🔗 LinkedIn: [Prayas Gotefode](https://www.linkedin.com/in/prayas-gotefode-819718401)
+- GitHub: [Prayasit](https://github.com/Prayasit)
+- LinkedIn: [Prayas Gotefode](https://www.linkedin.com/in/prayas-gotefode-819718401)
 
 
 ---
